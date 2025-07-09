@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: fastapi-llm-app
+    name: data
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
